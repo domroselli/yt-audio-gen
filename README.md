@@ -20,5 +20,5 @@ You can only spy on a protected user if you own the user or are an approved foll
 + __--all__  
   Downloads and extracts audio from all the videos from the channel
 
-+ __--new__ 
++ __--new__ (default) 
   Downloads and extracts audio from only the newest videos from the channel (vidoes not in the archive.txt file)
