@@ -5,7 +5,7 @@ import shutil
 import sys
 import youtube_dl
 
-DOWNLOAD_ARCHIVE_FILE = 'darkstream_archive.txt'
+DOWNLOAD_ARCHIVE_FILE = 'download_archive.txt'
 NEW_FILE_DIR = './new'
 DARKSTREAM_URL = 'https://www.youtube.com/channel/UCGJNdaSwFeP3pLd1MhN0dRg'
 
